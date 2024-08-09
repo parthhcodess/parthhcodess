@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Like to build and create stuff using FullStack and Web3.
+- 🖇️ Like to build and create stuff using FullStack and Web3.
 - 🧩 Eager to learn more in Tech and Coding.
 - 🥅 Exploring Linux and want to contribute more in Open Source
 
