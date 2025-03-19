@@ -34,14 +34,13 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parthhcodess&background=40%2C13131A%2C13131A&sideNums=EB5454&currStreakNum=EB5454&sideLabels=EBEBEB&border=030312" alt="GitHub Streak" /></a>
-    </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parthhcodess&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=parthhcodess&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide=stars" alt="Parth Mandawaria's GitHub Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parthhcodess&background=40%2C13131A%2C13131A&sideNums=EB5454&currStreakNum=EB5454&sideLabels=EBEBEB&border=030312" alt="GitHub Streak" /></a>
 
 
 ## Connect with me:
