@@ -48,7 +48,7 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/parth-mandawaria-042890257/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/parthcodess"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/parthcodess"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
 <a href = "https://www.instagram.com/itssparthhh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
