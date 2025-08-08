@@ -6,7 +6,7 @@
 ---
 
 ### 🌌Areas of Interest:
- `FullStack` `Blockchain` `AI-ML` 
+ `FullStack` `Blockchain` 
 
 ---
 
